@@ -35,6 +35,7 @@ h2{
     font-size: 36px;
     /* font-display:unset  ; */
     text-decoration-color: #d8dbde;
+    overflow:hidden;
     
 }
 .form_wrap{
