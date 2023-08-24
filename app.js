@@ -10,6 +10,7 @@ var input=document.getElementById("input").value; //  I think scope problem when
 
 // clear data
 // that mean jab phir se text doge to clear hone ke baad badega bcz pahle ki blanck kar diya 
+// that mean  We we wil again on searchBtn it will clear below lines
 audioBox.innerHTML="";
 notFound.innerText='';
 defBox.innerText='';
